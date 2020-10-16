@@ -18,10 +18,11 @@
 }
 .subtotal > button {
   background: #f0c14b;
-  background-repeat: 2px;
   width: 100%;
   height: 30px;
+  border-radius: 2px;
   border: 1px solid;
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
 }
